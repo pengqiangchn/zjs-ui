@@ -1,0 +1,62 @@
+.z-panel-border {
+  border-color: #ddd;
+}
+.z-panel-header {
+  background: #f8f8f8;
+  color: #444;
+  font-weight: bold;
+  border-color: #ddd;
+}
+.z-panel-toolbar,
+.z-panel-footer {
+  background: #f8f8f8;
+  border-color: #ddd;
+}
+
+/* grid
+==========================================*/
+.z-grid-border {
+  border-color: #ddd;
+}
+.z-grid-header {
+  background: #f8f8f8;
+}
+.z-grid-column-trigger {
+  border-color: #ddd;
+}
+.z-grid-headerCell,
+.z-grid-topRightCell,
+.z-grid-columnproxy {
+  background: #f8f8f8;
+  border-color: #ddd;
+}
+.z-grid-cell {
+  border-color: #ddd;
+}
+.z-grid-footer,
+.z-grid-pager,
+.z-grid-filterRow {
+  border-color: #ddd;
+  background: #fbfbfb;
+}
+html body .z-grid-row-hover {
+  background: #f1f8fd;
+}
+html body .z-grid-row-selected {
+  background: #eef4f9;
+}
+html body .z-grid .z-grid-cell-selected {
+  background: #bbdcf8;
+}
+.z-grid-header-over {
+  background: #f1f8fd;
+}
+.z-grid-headerCell-inner,
+.z-grid-cell {
+  color: #444;
+}
+
+.z-grid-cell-inner,
+.z-grid-headerCell-inner {
+  font-family: 'Helvetica Neue', ​Helvetica, ​Arial, ​sans-serif;
+}
